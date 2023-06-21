@@ -5,7 +5,7 @@ How to play: press any key to start and click the squares in the correct sequenc
 
 Course - The Complete 2023 Web Development Bootcamp
 
-Author - Sr. Angela Yu
+Author - Dr. Angela Yu
 
 Platform - Udemy
 
